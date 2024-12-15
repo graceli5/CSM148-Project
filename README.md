@@ -13,4 +13,4 @@ Lastly, the code for our project is very straightforward to use. The only thing 
 ## Other Files
 
 * The appendix for this project is located in `appendix.md`
-* The code for this project is located in `code.ipynb`. To prevent potential Python environment issues with using this code, we recommend running this notebook in Google Colab.
+* The code for this project is located in `final_code.ipynb`. To prevent potential Python environment issues with using this code, we recommend running this notebook in Google Colab.
